@@ -1,0 +1,19 @@
+<?xml version="2.0"?>
+<Kapil_LP_Data>
+	<!-- Developed by: Kapil Saraswat-->
+	<paper>Linearly Polarized Radiation Pattern Processing</paper>
+	<nickname>LP_Radiation_Pattern</nickname>
+	<!-- These data are same as given in measurement software-->
+	<Angle_Step_Size>1</Angle_Step_Size>
+	<!-- The Plane of observation, XZ or YZ-->
+	<Plot_Plane>XZ</Plot_Plane>
+	<port_no>8</port_no>
+	<F_start>1000</F_start>
+	<F_stop>5000</F_stop>
+	<Sweep_point>11</Sweep_point>
+	<F_gap>400</F_gap>
+	<F_ptt>3520</F_ptt>
+	<!-- Setting for plotting-->
+	<Save_data>yes</Save_data>
+	<Save_image>yes</Save_image>
+</Kapil_LP_Data>
